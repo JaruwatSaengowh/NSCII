@@ -1,0 +1,15 @@
+C:\dev\test\NSII\NSII\bin\Debug\net7.0\NSII.exe
+C:\dev\test\NSII\NSII\bin\Debug\net7.0\NSII.deps.json
+C:\dev\test\NSII\NSII\bin\Debug\net7.0\NSII.runtimeconfig.json
+C:\dev\test\NSII\NSII\bin\Debug\net7.0\NSII.dll
+C:\dev\test\NSII\NSII\bin\Debug\net7.0\NSII.pdb
+C:\dev\test\NSII\NSII\obj\Debug\net7.0\NSII.csproj.AssemblyReference.cache
+C:\dev\test\NSII\NSII\obj\Debug\net7.0\NSII.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\test\NSII\NSII\obj\Debug\net7.0\NSII.AssemblyInfoInputs.cache
+C:\dev\test\NSII\NSII\obj\Debug\net7.0\NSII.AssemblyInfo.cs
+C:\dev\test\NSII\NSII\obj\Debug\net7.0\NSII.csproj.CoreCompileInputs.cache
+C:\dev\test\NSII\NSII\obj\Debug\net7.0\NSII.dll
+C:\dev\test\NSII\NSII\obj\Debug\net7.0\refint\NSII.dll
+C:\dev\test\NSII\NSII\obj\Debug\net7.0\NSII.pdb
+C:\dev\test\NSII\NSII\obj\Debug\net7.0\NSII.genruntimeconfig.cache
+C:\dev\test\NSII\NSII\obj\Debug\net7.0\ref\NSII.dll
