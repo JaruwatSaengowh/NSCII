@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\test\\NSII\\NSII\\NSCII.csproj",
+      "projectUniqueName": "C:\\dev\\test\\NSII\\NSCII\\NSCII.csproj",
       "projectName": "NSCII",
-      "projectPath": "C:\\dev\\test\\NSII\\NSII\\NSCII.csproj",
+      "projectPath": "C:\\dev\\test\\NSII\\NSCII\\NSCII.csproj",
       "packagesPath": "C:\\Users\\jaruwat.s\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\test\\NSII\\NSII\\obj\\",
+      "outputPath": "C:\\dev\\test\\NSII\\NSCII\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
